@@ -19,7 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         let nav = UINavigationController(rootViewController: DisplayController())
 
         self.window?.rootViewController = nav
-        
+        //修改
         return true
     }
 
